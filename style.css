@@ -1,0 +1,41 @@
+// RESET CSS //
+html * {
+    margin: 0;
+}
+
+body {
+
+// Centralizar Texto //
+text-align:center;
+// Imagem de Fundo  //
+background-image: url(https://bit.ly/3g7ht7x);
+// Remover Repetição // 
+background-repeat: no-repeat;
+// Posicionamneto // 
+background-position: center center;
+// Altura do body // 
+height: 100vh;
+// Tamanho da Imagem // 
+background-size: 500px;
+// Fixar a Imagem de fundo // 
+background-attachment: fixed;
+// Cor de Fundo // 
+background-color: 
+
+}
+
+#cabecalho{
+    height: : 20v;
+    background-color: 
+}
+#conteudo {
+    height: 60vh;
+    background-color: brown;
+}
+#rodape {
+    height: 20vh;
+    background-color: cyan;
+}
+#icones {
+    width: 100px;
+}
